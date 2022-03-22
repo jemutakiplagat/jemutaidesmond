@@ -13,6 +13,11 @@
     height: auto;
 margin-left: auto;
 margin-right: auto;
+padding: 100%;
+border-color:blue;
+border: 100px;
+background-image: -moz-element();
+background-color: blue;
 
 }
 
